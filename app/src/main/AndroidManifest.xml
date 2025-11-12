@@ -34,7 +34,7 @@
                 <data android:scheme="package" />
             </intent-filter>
         </receiver>
-        Z
+
 
         <service
             android:name="LocalVpnService"
